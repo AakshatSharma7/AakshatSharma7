@@ -6,6 +6,14 @@
 I'm a Data Scientist. Highly motivated and detail-oriented Data Scientist and Machine Learning Engineer with a strong foundation in data analysis, statistical modeling, and machine learning algorithms. Proficient in Python, SQL, and data visualization tools with hands-on experience in building predictive models, data preprocessing, and deploying ML solutions through academic projects and internships. Eager to contribute technical expertise, problem-solving skills, and a continuous learning mindset to drive innovation in data science and machine learning domains.
 
 Skills: Python / Statistics / Machine Learning / Data Analysis / SQL / Deep Learning / MLOps / AWS / Natural Language Processing / Generative AI
+### 📫 How to reach me 
+ <a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="left" src="https://github.com/user-attachments/assets/9caba139-a0c5-44a7-984e-539c309542c5" alt="akshat sharma" height="30" width="40" /></a>         
+ 
+ <a href="https://linkedin.com/in/akshat sharma" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat sharma" height="30" width="40" /></a>
+
+ <a href="https://mail.google.com/mail/u/0/#inbox" target="blank"> <img width="40" height="30" alt="image" src="https://github.com/user-attachments/assets/1fc62d91-5ad9-4c20-8ed2-fb5586737a72" />
+
+
 
 ---
 
