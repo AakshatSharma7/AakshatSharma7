@@ -7,9 +7,8 @@ I'm a Data Scientist. Highly motivated and detail-oriented Data Scientist and Ma
 
 Skills: Python / Statistics / Machine Learning / Data Analysis / SQL / Deep Learning / MLOps / AWS / Natural Language Processing / Generative AI
 ### 📫 How to reach me 
- <a href="akshatssharma868@gmail.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/218a7391-9aba-431f-9ba9-ad9818cb336d"
- height="50" width="50" /></a>
-<a href="https://linkedin.com/in/akshat sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="akshat sharma" height="40" width="40" /></a>
+ <img align="center" src="https://github.com/user-attachments/assets/218a7391-9aba-431f-9ba9-ad9818cb336d" height="30" width="30" /> akshatssharma868@gmail.com </br>
+<a href="https://linkedin.com/in/akshat sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="akshat sharma" height="35" width="35" /></a>
           
 ---
 
