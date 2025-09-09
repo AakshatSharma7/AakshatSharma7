@@ -1,5 +1,5 @@
 
-# 🏄‍♂️ Akshat Sharma
+# 👩🏻‍💻 Akshat Sharma
 
 **`Data Science/Machine Learning/AI `**
 
