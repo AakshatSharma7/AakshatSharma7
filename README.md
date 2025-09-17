@@ -36,7 +36,7 @@ Skills: Python / Statistics / Machine Learning / Data Analysis / SQL / Deep Lear
 
 <!--![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)-->
 
- ![Akshat Sharma's GitHub stats](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) 
+![Aakshatsharma7's Stats](https://github-readme-stats.vercel.app/api?username=Aakshatsharma7&theme=buefy&show_icons=true&hide_border=true&count_private=true)
 
 #
 <!--
