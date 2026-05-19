@@ -80,7 +80,7 @@ print(akshat.get_expertise())
 **IIT-Certification(Data Scientist & AI Engineer)**
 
 <a href="" target="_blank">
-  <img src="" width="300" alt="IIT-Certification(Data Scientist & AI Engineer)">
+  <img src="https://github.com/AakshatSharma7/AakshatSharma7/blob/65eaac3243ef24b6dc75ec935096a9af9aaaa64e/Data%20science%20certificate.jpg" width="300" alt="IIT-Certification(Data Scientist & AI Engineer)">
 </a>
 
 </td>
