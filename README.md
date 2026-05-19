@@ -90,7 +90,7 @@ print(akshat.get_expertise())
 **Deloitte Certificate**
 
 <a href="" target="_blank">
-  <img src="" width="300" alt="Deloitte Certificate">
+  <img src="https://github.com/AakshatSharma7/AakshatSharma7/blob/2ce95935e224fb8272375bf42030e92c09e919f6/Deloitte%20Certificate_page-0001.jpg" width="300" alt="Deloitte Certificate">
 </a>
 
 </td>
@@ -100,7 +100,7 @@ print(akshat.get_expertise())
 **Accenture Certificate**
 
 <a href="" target="_blank">
-  <img src="" width="300" alt="Accenture Certificate">
+  <img src="https://github.com/AakshatSharma7/AakshatSharma7/blob/2ce95935e224fb8272375bf42030e92c09e919f6/Accenture%20North%20America_certificate_page-0001.jpg" width="300" alt="Accenture Certificate">
 </a>
 
 </td>
