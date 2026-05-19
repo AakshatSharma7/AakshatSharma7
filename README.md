@@ -71,7 +71,7 @@ print(akshat.get_expertise())
 **Microsoft Certification**
 
 <a href="" target="_blank">
-  <img src=""E:\Downloads\INTEELIPATH\Certificate & Letters\Achievements - akshatsharma-1166 _ Microsoft Learn.pdf"" width="300" alt="Microsoft Certification">
+  <img src="https://github.com/AakshatSharma7/AakshatSharma7/blob/b3ebc764298680f71191028f4e9499054f7d441e/Achievements%20-%20akshatsharma-1166%20_%20Microsoft%20Learn_page-0001.jpg" width="300" alt="Microsoft Certification">
 </a>
 
 </td>
