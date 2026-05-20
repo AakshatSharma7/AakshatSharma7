@@ -15,7 +15,7 @@ I'm a Data Scientist. Highly motivated and detail-oriented Data Scientist and Ma
   <a href="https://www.linkedin.com/in/akshat-sharma-45b314276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=LinkedIn&logoColor=blue&labelColor=blue&color=blue"/>
   </a>
-  <a href="akshatssharma868@gmail.com" target="_blank">
+  <a href="mailto:akshatssharma868@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/G--Mail-red?style=for-the-badge&logo=Gmail&logoColor=red&labelColor=white&color=red"/>
   </a>
   <a href="https://aakshatsharma7.github.io/Portfolio/" target="_blank">
@@ -155,7 +155,7 @@ print(akshat.get_expertise())
 - 👨💼 Having Good Hands-on Experience
 - 🏏 Cricket enthusiast | ☕ Coffee lover
 - 💬 Ask me about **AI, Data Science, Data Analytics, Cricket, and Coffee**
-- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/akshat-sharma-45b314276/) | [G-Mail](akshatssharma868@gmail.com)
+- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/akshat-sharma-45b314276/) | [G-Mail]("mailto:akshatssharma868@gmail.com")
 
 ---
 
