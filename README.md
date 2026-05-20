@@ -155,7 +155,7 @@ print(akshat.get_expertise())
 - 👨💼 Having Good Hands-on Experience
 - 🏏 Cricket enthusiast | ☕ Coffee lover
 - 💬 Ask me about **AI, Data Science, Data Analytics, Cricket, and Coffee**
-- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/akshat-sharma-45b314276/) | [G-Mail]("mailto:akshatssharma868@gmail.com")
+- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/akshat-sharma-45b314276/) | <a href="mailto:webmaster@example.com">G-Mail</a>
 
 ---
 
